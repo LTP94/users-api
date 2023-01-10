@@ -4,14 +4,14 @@
 
 This API provides HTTP endpoint's and tools for the following:
 
-* Create a user: `POST/api-users/v1/travels`
-* Get a user by id: `GET/api-users/v1/{id}`
+* Create a user: `POST/api-users/v1/users`
+* Get a user by id: `GET/api-users/v1/users/{id}`
 
 ### Details
 
-`POST/api-travels/v1/travels`
+`POST/api-users/v1/users`
 
-This end-point is called to create a new trip.
+This end-point is called to create a new user.
 
 **Body:**
 
@@ -46,7 +46,6 @@ This project was developed with:
 
 * **Java 11 (Java Development Kit - JDK: 11.0.9)**
 * **Spring Boot 2.3.7**
-* **Spring Admin Client 2.3.1**
 * **Maven**
 * **PostgreSQL**
 
