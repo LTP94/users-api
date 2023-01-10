@@ -4,7 +4,7 @@
 
 This API provides HTTP endpoint's and tools for the following:
 
-* Create a trip: `POST/api-users/v1/travels`
+* Create a user: `POST/api-users/v1/travels`
 * Get a user by id: `GET/api-users/v1/{id}`
 
 ### Details
