@@ -26,7 +26,7 @@ import io.github.luistrueba.usersapi.exception.UserNotFoundException;
  *
  */
 @RestController
-@RequestMapping("/api-travels/v1/users")
+@RequestMapping("/api-users/v1/users")
 public class UserController {
 
     @Autowired
